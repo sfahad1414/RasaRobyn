@@ -1,2 +1,2 @@
-rasa[full]==2.8.15
+rasa[full]==3.6.6
 robyn
