@@ -1,2 +1,3 @@
-rasa[full]==2.8.15
+rasa[full]
 robyn
+uuid6

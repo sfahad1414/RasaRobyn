@@ -3,7 +3,7 @@ from rasa.core.agent import Agent
 import uuid6
 
 app = Robyn(__file__)
-agent = Agent.load("./models/20230818-091151.tar.gz")
+agent = Agent.load("./models/20230820-074946-asphalt-ocean.tar.gz")
 
 @app.get("/")
 async def h(request):
